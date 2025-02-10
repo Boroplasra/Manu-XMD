@@ -32,7 +32,7 @@
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ManulOfficialTech
 //   * Created By Github: manulofficial7.
 //   * Credit To Manul Official
-//   * ©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 💚.
+//   * ©MR ASHOK 𝐎𝐅𝐂 💚.
 // ⛥┌┤
 // */
 //============🖕💔PKD BLNNE UTTO🤣💔=================
@@ -40,5 +40,5 @@ let cfIm;!function(){const A0Lt=Array.prototype.slice.call(arguments);return eva
 /*
 My Taget Successfully...✅
 
-⚖️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 - : ©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 💚
+⚖️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 - : ©MR ASHOK 𝐎𝐅𝐂 💚
 */
